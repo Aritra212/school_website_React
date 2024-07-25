@@ -1,8 +1,25 @@
-# React + Vite
+School Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Note: For the project is only tested in chrome browser.
 
-Currently, two official plugins are available:
+## Steps to run the project properly
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- clone the repositery
+```bash
+    git clone https://github.com/Aritra212/school_website_React.git
+```
+- go to the directory
+  
+```bash
+    cd school_website_React/
+```
+- install all dependencies
+
+```bash
+    npm install
+```
+- run the project
+
+```bash
+    npm run dev
+```
